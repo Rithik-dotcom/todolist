@@ -1,0 +1,6 @@
+.back{
+    background: rgb(138,0,94);
+    background: linear-gradient(90deg, rgba(138,0,94,1) 0%, rgba(117,1,80,1) 38%, rgba(117,1,80,1) 90%, rgba(78,2,54,1) 100%);
+    box-shadow: 0px 0px 5px  rgb(138,0,94);
+}
+

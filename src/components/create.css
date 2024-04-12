@@ -1,0 +1,33 @@
+.main-form{
+padding-top: 5%;
+display: flex;
+flex-direction: column;
+align-items: center;
+justify-content: center;
+}
+
+
+#input-main{
+    border: 2px solid white;
+    width: 30vb;
+    border-radius: 2%;
+    /* height: 5vh; */
+    margin: 2% 0;
+}
+#text-main{
+    /* margin: 1% 0; */
+    border: 2px solid white;
+    width: 30vb;
+    border-radius: 2%;
+    
+    height: 10vh;
+}
+.note-main{
+    margin: 0 10px;
+    padding: auto;
+    color: white;
+    background-color: #8a005e;
+  
+    /* width: 5vb; */
+    background-image: url("https://www.transparenttextures.com/patterns/3px-tile.png");
+}

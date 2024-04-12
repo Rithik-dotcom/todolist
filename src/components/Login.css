@@ -1,0 +1,61 @@
+.email-edit {
+    width: 30%;
+    margin: auto;
+}
+
+.password-edit {
+    width: 30%;
+    margin: auto;
+}
+
+.login-edit {
+    padding-top: 10%;
+}
+
+.text-edit {
+    color: black;
+}
+
+.login-div {
+   
+    border-radius: 10%;
+    box-shadow: 05px 05px 05px rgb(254, 74, 206);
+    min-height: 100%;
+    margin-right: 100px;
+    text-align: center;
+
+    width: 50%;
+    margin: 5% 25%;
+    background-color: rgb(254, 74, 206);
+    padding: 05% 10%;
+    
+    /* text-decoration: underline rgb(129, 20, 94); */
+}
+button:hover{
+    transform: scale3d(1.1, 1.1, 1.1);
+}
+#div-input:hover{
+    
+        transform: scale3d(1.1, 1.1, 1.1);
+
+}
+.div-block{
+    display: flex;
+}
+
+
+.h-1 {
+    color:white;
+    font-size: xx-large;
+    font-weight: 900;
+    padding-bottom: 5%;
+}
+
+#div-input {
+    color: rgb(129, 20, 94) !important;
+    font-weight: 900 !important;
+}
+.input-m{
+width:50%;
+margin: 0 3%;
+}
